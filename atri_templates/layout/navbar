@@ -1,0 +1,94 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "3597ac2c-9b5c-4dee-bbc7-500694cf7c13",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "boxSizing": "border-box",
+          "fontVariant": "tabular-nums",
+          "fontFeatureSettings": "tnum",
+          "paddingTop": "4px",
+          "paddingLeft": "11px",
+          "paddingBottom": "4px",
+          "paddingRight": "11px",
+          "color": "#000000d9",
+          "fontSize": "14px",
+          "backgroundColor": "#fff",
+          "backgroundImage": "none",
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderColor": "#d9d9d9",
+          "borderRadius": "2px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "8cfb4e97-e8bb-484a-811b-b7a71fff2fb6",
+    "childId": "3597ac2c-9b5c-4dee-bbc7-500694cf7c13"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "c596a73d-c8ed-4807-a4e9-43734d8d594c",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "value": "",
+          "placeholder": "Placeholder Text"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "8cfb4e97-e8bb-484a-811b-b7a71fff2fb6",
+    "childId": "c596a73d-c8ed-4807-a4e9-43734d8d594c"
+  },
+  {
+    "id": "b6662844-3d1f-4a7f-86a1-d269548c2b10",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "8cfb4e97-e8bb-484a-811b-b7a71fff2fb6",
+    "childId": "b6662844-3d1f-4a7f-86a1-d269548c2b10"
+  },
+  {
+    "id": "8cfb4e97-e8bb-484a-811b-b7a71fff2fb6",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Input",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Input2"
+    }
+  }
+]

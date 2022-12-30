@@ -1,0 +1,14 @@
+{
+  "BarChart": 1,
+  "Div": 7,
+  "Flex": 6,
+  "Input": 4,
+  "Menu": 1,
+  "Checkbox": 1,
+  "Link": 2,
+  "Image": 2,
+  "Icon": 1,
+  "Upload": 2,
+  "TextBox": 12,
+  "Button": 2
+}
